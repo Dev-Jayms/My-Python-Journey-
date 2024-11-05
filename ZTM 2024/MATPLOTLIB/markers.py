@@ -58,12 +58,16 @@ import numpy as np
 xpoints = np.array([3, 28, 10, 10,4, 15,12,16])
 ypoints = np.array([2, 16, 13, 12,6, 9,14,18])
 
+# Font
+font1 = {'family':'serif','color':'blue','size':20}
+font2 = {'family':'serif','color':'darkred','size':15}
+
 # Title
-plt.title("James Matplotlib Graph")
+plt.title("James Matplotlib Graph",fontdict= font1)
 
 # Labels
-plt.xlabel("Calories")
-plt.ylabel("Duration(Minutes)")
+plt.xlabel("Calories", fontdict = font2, )
+plt.ylabel("Duration(Minutes)", fontdict = font2)
 
 # Markers
 # X,Y Plots
@@ -71,4 +75,8 @@ plt.plot(xpoints, marker = 'd')
 plt.plot(ypoints, 'd:r')
 
 # Display
+# plt.show()
+
+# Gridlines
+plt.grid(True, color = 'green', linestyle = '--', linewidth = 0.5)
 plt.show()
