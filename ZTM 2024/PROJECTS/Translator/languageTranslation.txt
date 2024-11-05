@@ -1,0 +1,31 @@
+
+This is the translation of I love you in finnish:
+Rakastan sinua
+
+This is the translation of I love you in filipino:
+Send you are pics.
+
+This is the translation of i love you in french:
+i love you
+
+This is the translation of I love you in hebrew:
+אה לבה
+
+This is the translation of I love you in hausa:
+ki kula da kanki a kaduna
+
+
+This is the translation of I love you in korean:
+평생을 너와 함께
+
+This is the translation of i love you in lao:
+ແລ້ວ?
+
+This is the translation of I love you in dutch:
+Ik hou van je
+
+This is the translation of I am who I am. in krio:
+'KRIO' IS AN INVALID TARGET LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT
+
+This is the translation of I love you in creole:
+'CREOLE' IS AN INVALID TARGET LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT
